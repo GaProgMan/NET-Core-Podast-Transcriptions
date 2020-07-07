@@ -8,6 +8,31 @@ I would like to ask the community for help in spotting and fixing the few issues
 
 In this repo, you will find transcriptions for all of published episodes of the podcast. I will work on these transcriptions, in the open, and all contributors will be acknowledged on the show notes for each episode.
 
+## Roadmap
+
+The initial goal for this repo is to fix the (paid) machine transcriptions for the first 18 episodes. After that has goal has been reached, the goal will be to continually improve on the transcriptions for new episodes as they are released.
+
+The following is a list of transcriptions which are marked as high priority, and that have not yet been completed:
+
+| Episode Number | Status |
+|---|---|
+| 004 - Blazor with Ed Charbeneau | awaiting machine transcription |
+| 007 - Blogging 3.0 wiht Jeff Fritz | awaiting machine transcription |
+| 009 - Designing your .NET Core applications with Steve Smith | awaiting machine transcription |
+| 011 - But What is Lizzie | awaiting machine transcription |
+| 013 - Continual Learning with Steve Gordon | awaiting machine transcription |
+| 015 - Geeking Out About .NET Core Dave Rael | awaiting machine transcription |
+| 017 - ASP.NET Core's Middleware Pipeline with Andrew Lock | awaiting machine transcription |
+| 018 - The History of .NET with Richard Campbell | awaiting machine transcription |
+
+There are three statuses for each transcription:
+
+- Awaiting machine transcription
+- Fixing
+- Done
+
+Please see the [Contributing](./github/contributing) guide for the steps involved in migrating from one status to another.
+
 ## Contributing
 
 Contributions to this repository are welcome, however please see the [Contributing](./github/contributing) guide before submitting your first pull request.

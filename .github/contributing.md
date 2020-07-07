@@ -17,6 +17,7 @@ Pull requests are the best way to propose changes to the codebase (we use [Githu
 1. Fork the repo and create your branch from `master`.
 1. Make sure your code lints with any Markdown linter
 1. Make sure that your changes are correct British English
+1. Update the readme - specifically the roadmap table
 1. Issue that pull request!
 
 ## Any contributions you make will be under the MIT Software License
