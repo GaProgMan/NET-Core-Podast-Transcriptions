@@ -1,0 +1,24 @@
+{{ /*
+    This shortcode is used to create an image with a caption, wrapped in a figure element
+    which in turn is wrapped in an anchor tag.
+*/ }}
+
+{{ $img     := .Get "img" }}
+{{ $alt     := .Get "alt" }}
+{{ $url     := .Get "url" }}
+{{ $caption := .Get "caption" }}
+{{ $imgclass:= .Get "imgclass"}}
+<figure>
+    <a href="{{ $url }}" class="custom-anchor" target="_blank"  >
+        <img src="{{ $img }}" class="{{ $imgclass }}" alt="{{ $alt | markdownify }}">
+        <figcaption>
+            <h5>
+                {{ if gt (len $caption) 0 }}
+                {{ $caption | markdownify }}
+                {{ else }}
+                {{ $alt | markdownify }}
+                {{ end }}
+            </h5>
+        </figcaption>
+    </a>
+</figure>

@@ -1,0 +1,6 @@
+{{ /*
+    This shortcode is used to create a superscript element for some arbitrary text.
+*/ }}
+
+{{ $text := .Get 0 }}
+<sup>{{- $text -}}</sup>

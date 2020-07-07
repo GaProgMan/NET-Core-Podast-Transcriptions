@@ -1,0 +1,19 @@
+{{ /*
+    This shortcode is used to embed an arbitrary tweet.
+    The minimum required data are `handle` and `id`. However, for users
+    who are browsing with JavaScript disabled, all other fields are
+    required.
+    The Twitter JavaScript file (see twit-js.html) will use the url
+    generated for the anchor tag in this shortcode to display a frame
+    containing the tweet
+*/ }}
+
+{{ $content := .Get "content" }}
+{{ $name    := .Get "name" }}
+{{ $handle  := .Get "handle" }}
+{{ $id      := .Get "id" }}
+{{ $date    := .Get "date" }}
+
+<blockquote class="twitter-tweet" data-lang="en">
+    <p lang="en" dir="ltr">{{ $content | markdownify }}</p>&mdash; {{ $name }} (@{{ $handle }}) <a href="https://twitter.com/{{ $handle }}/status/{{ $id }}">{{ $date }}</a>
+</blockquote>

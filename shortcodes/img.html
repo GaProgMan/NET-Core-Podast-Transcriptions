@@ -1,0 +1,20 @@
+{{ /*
+    This shortcode is used to create an image with a caption, wrapped in a figure element.
+*/ }}
+
+{{ $img     := .Get "img" }}
+{{ $alt     := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $imgclass:= .Get "imgclass"}}
+<figure>
+    <img src="{{ $img }}" class="{{ $imgclass }}" alt="{{ $alt | markdownify }}">
+    <figcaption>
+        <h5>
+            {{ if gt (len $caption) 0 }}
+            {{ $caption | markdownify }}
+            {{ else }}
+            {{ $alt | markdownify }}
+            {{ end }}
+        </h5>
+    </figcaption>
+</figure>
