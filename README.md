@@ -2,7 +2,7 @@
 
 Transcriptions for all released episodes of The .NET Core Podcast - used for generating all show notes for the website.
 
-This repo was set up in order to ask the community for help with the transcriptions created for the podcast. Currently all transcriptions for the podcast are machine-based ones. They are created using a combination of [otter.ai](https://otter.ai) (a paid service) and [PIT Transcriptor](https://transcriptor.productivityintech.com/) (which leverages paid services). These machine transcriptions are often 60-80% correct, but require tweaking before they are ready for human consumption. In the untweaked format, they are still readable and understandable but may have a few spelling or grammatical issues.
+This repo was set up in order to ask the community for help with the transcriptions created for the podcast. Currently all transcriptions for the podcast are machine-based ones. They are created using a combination of [otter.ai](https://otter.ai) (a paid service) and [Transcriptor](https://pypi.org/project/transcriptor/) (which leverages paid services). These machine transcriptions are often 60-80% correct, but require tweaking before they are ready for human consumption. In the untweaked format, they are still readable and understandable but may have a few spelling or grammatical issues.
 
 I would like to ask the community for help in spotting and fixing the few issues found in the transcriptions. The (paid) machine transcriptions are sill provided, however finding and fixing all of the issues is a rather large time sink.
 
