@@ -1,0 +1,6 @@
+{{ /*
+    This shortcode is used to apply a "right-align" css class to a paragraph.
+*/ }}
+
+{{ $text := .Get 0 }}
+<p class="right-align">{{ $text | markdownify }}</p>
