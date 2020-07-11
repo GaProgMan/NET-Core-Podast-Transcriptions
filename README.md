@@ -1,4 +1,4 @@
-# .NET-Core-Podast-Transcriptions
+# .NET Core Podcast Transcriptions
 
 Transcriptions for all released episodes of The .NET Core Podcast - used for generating all show notes for the website.
 
