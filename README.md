@@ -16,7 +16,7 @@ The following is a list of transcriptions which are marked as high priority, and
 
 | Episode Number | Status |
 |---|---|
-| 005 - Blazor with Ed Charbeneau | Fixing |
+| 005 - Blazor with Ed Charbeneau | Awaiting fixes |
 | 007 - Blogging 3.0 wiht Jeff Fritz | awaiting machine transcription |
 | 009 - Designing your .NET Core applications with Steve Smith | awaiting machine transcription |
 | 011 - But What is Lizzie | awaiting machine transcription |
