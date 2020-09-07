@@ -24,10 +24,14 @@ The following is a list of transcriptions which are marked as high priority, and
 | 015 - Geeking Out About .NET Core Dave Rael | awaiting machine transcription |
 | 017 - ASP.NET Core's Middleware Pipeline with Andrew Lock | awaiting machine transcription |
 | 018 - The History of .NET with Richard Campbell | awaiting machine transcription |
+| 060 - Uno platform with Jerome Laban | Awaiting fixes |
+| 061 - Azure and Live Conferences With Andy Morrell | awaiting machine transcription |
 
-There are three statuses for each transcription:
+There are five statuses for each transcription:
 
 - Awaiting machine transcription
+- Machine Transcription Provided
+- Awaiting Fixes
 - Fixing
 - Done
 
