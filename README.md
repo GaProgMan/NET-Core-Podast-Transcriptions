@@ -24,7 +24,7 @@ The following is a list of transcriptions which are marked as high priority, and
 | 015 - Geeking Out About .NET Core Dave Rael | awaiting machine transcription |
 | 017 - ASP.NET Core's Middleware Pipeline with Andrew Lock | awaiting machine transcription |
 | 018 - The History of .NET with Richard Campbell | awaiting machine transcription |
-| 060 - 064 | Machine transcriptions uploaded |
+| 060 - 066 | Machine transcriptions uploaded |
 
 There are five statuses for each transcription:
 
