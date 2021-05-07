@@ -458,7 +458,6 @@ my real passion. That's it. You're diverse people can come a bit like a robot. I
 
 That's it. That's it. Excellent. Well, thank you very much for being on the show, Louis. I really appreciate you having me.
 
-
 {{< paracentre "The above is a machine transcription, as such there may be subtle errors. If you would like to help to fix this transcription, please see this [GitHub repository](https://github.com/GaProgMan/NET-Core-Podast-Transcriptions)" >}}
 
 ### Wrapping Up
