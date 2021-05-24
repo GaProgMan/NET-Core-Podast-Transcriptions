@@ -4,7 +4,7 @@
  
 I just have to add all of this is possible thanks to the amazing team behind the writing project. And I'm here today on behalf of the ridings project representing an amazing team of people made up of incredibly talented and smart developers. And I certainly wont and can't pretend that everything we're going to be talking about today was all achieved or discovered by myself. In fact, quite the contrary.
 
-I'm a fairly small contributor of the project relative to some of the work done by gdkchan, who was obviously the lead developer, but also ack77 and Thog, who have both been here from pretty much the very beginning. We've got riperiperi and LDj3SNuD, emmauss, Xpl0itR and MooseHunter along with a whole array of more casual contributors to the project. But I guess I've been here pretty much from the very start. And so I think I have a fairly unique perspective to share the entire project and its progress through the years.
+I'm a fairly small contributor of the project relative to some of the work done by gdkchan, who was obviously the lead developer, but also Ac_K and Thog, who have both been here from pretty much the very beginning. We've got riperiperi and LDj3SNuD, emmauss, Xpl0itR and MooseHunter along with a whole array of more casual contributors to the project. But I guess I've been here pretty much from the very start. And so I think I have a fairly unique perspective to share the entire project and its progress through the years.
 
 ---
 
